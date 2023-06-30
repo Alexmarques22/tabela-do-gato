@@ -1,0 +1,71 @@
+body{
+
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(./imagens/gatinho.jpg);
+
+    background-size: cover;  
+
+    margin: 0;  
+
+    align-items: center;
+
+    display: flex;
+
+    justify-content: center;
+
+    height: 100vh;
+
+}
+
+
+
+
+.tabela{
+
+    width: 500px;
+
+    height: 200px;
+
+    border-color:  white;
+
+    border-collapse: collapse;
+
+
+
+
+}
+
+
+
+
+.tabela tr td{
+
+    border: 1px solid rgb(255, 255, 255);
+
+      padding: 20px;
+
+      text-align: left;
+
+}
+
+
+
+
+.titulo{
+
+background-color: white;
+
+color: black;
+
+width: 100px;
+
+height: 40px;
+
+}
+
+.linhas{
+
+    background-color: rgba(255, 255, 255, 0.507);
+
+    color: black;
+
+    }
